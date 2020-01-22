@@ -1,4 +1,5 @@
 # Class Activity 1 part one
+Jared Knutson - Drednaut
 
 Welcome to CS 491 - Testing and DevOps! Your first assignment is outlined below:
 
